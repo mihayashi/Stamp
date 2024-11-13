@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">サウススタンプラリー</string>
+    <!-- 画面1 -->
+    <string name="first_message">まずは端末の設定を行います。左にスワイプしてそれぞれの機能や情報を許可/拒否の設定をしてください。</string>
+
+    <!-- 画面2 -->
+    <string name="second_message">QRコードの読み取り、フレーム写真の撮影のためにカメラへのアクセスを許可してください。</string>
+    <string name="next">次へ</string>
+    <string name="camera_description">QRコードを読み込むために、カメラへのアクセスを許可してください。</string>
+
+    <!-- 画面4 -->
+    <string name="scan_qr">QRコードをスキャン</string>
+    <string name="trademark">※ＱＲコードはデンソーウェーブの登録商標です</string>
+    <string name="not_url_message">このQRコードはスキャンできません</string>
+    <string name="back">戻る</string>
+    <string name="permission_reminder">カメラのアクセスが許可されていません。 [%1$s]の[カメラの権限]がオンになっていることを確認してください。</string>
+
+    <!-- camera permission -->
+    <string name="camera_permission_granted">カメラのアクセスが許可されました</string>
+    <string name="camera_permission_denied">カメラのアクセスが拒否されました</string>
+    <string name="camera_already_granted">カメラは既に許可されています</string>
+</resources>

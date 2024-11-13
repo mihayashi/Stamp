@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Stamp</string>
+    <!-- 画面1 -->
+    <string name="first_message">First, configure the settings of the device. Please swipe left to enable or disable each function or information.</string>
+
+    <!-- 画面2 -->
+    <string name="second_message">In order to read the QR code or photos with Frame, please allow camera access.</string>
+    <string name="next">Allow camera access</string>
+    <string name="camera_description">In order to read the QR code or photos with Frame, please allow camera access.</string>
+
+    <!-- 画面4 -->
+    <string name="scan_qr">Scan QR code</string>
+    <string name="trademark">* QR Code is registered trademark of DENSO WAVE INCORPORATED.</string>
+    <string name="not_url_message">This QR code cannot be used with this app</string>
+    <string name="back">Back</string>
+    <string name="permission_reminder">Camera permission is not granted. Please make sure  [%1$s] \'s [Camera Permission] is ON.</string>
+
+    <!-- camera permission -->
+    <string name="camera_permission_granted">Camera permission granted</string>
+    <string name="camera_permission_denied">Camera access denied</string>
+    <string name="camera_already_granted">Camera permission already granted</string>
+
+</resources>
